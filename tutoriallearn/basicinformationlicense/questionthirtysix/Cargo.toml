@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 reqwest = { version = "0.11.4", features = ["json"] }
 futures = "0.3"
+runtime = "0.3.0-alpha.6"
