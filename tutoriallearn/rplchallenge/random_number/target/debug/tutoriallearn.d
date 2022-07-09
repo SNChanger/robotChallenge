@@ -1,0 +1,1 @@
+D:\develop\R&D\work\2022\lifeandneet\LayerFirstAndThird\robotChallenge\tutoriallearn\rplchallenge\random_number\target\debug\tutoriallearn.exe: D:\develop\R&D\work\2022\lifeandneet\LayerFirstAndThird\robotChallenge\tutoriallearn\rplchallenge\random_number\src\main.rs
