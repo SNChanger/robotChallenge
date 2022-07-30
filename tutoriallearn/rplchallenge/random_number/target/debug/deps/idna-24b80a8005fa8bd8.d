@@ -1,0 +1,10 @@
+D:\develop\R&D\work\2022\lifeandneet\LayerFirstAndThird\robotChallenge\tutoriallearn\basicinformationlicense\questionthirtysix\target\debug\deps\idna-24b80a8005fa8bd8.rmeta: C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\lib.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\punycode.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46_mapping_table.rs
+
+D:\develop\R&D\work\2022\lifeandneet\LayerFirstAndThird\robotChallenge\tutoriallearn\basicinformationlicense\questionthirtysix\target\debug\deps\libidna-24b80a8005fa8bd8.rlib: C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\lib.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\punycode.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46_mapping_table.rs
+
+D:\develop\R&D\work\2022\lifeandneet\LayerFirstAndThird\robotChallenge\tutoriallearn\basicinformationlicense\questionthirtysix\target\debug\deps\idna-24b80a8005fa8bd8.d: C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\lib.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\punycode.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46.rs C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46_mapping_table.rs
+
+C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\lib.rs:
+C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\punycode.rs:
+C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46.rs:
+C:\Users\SuzueKatsushige\.cargo\registry\src\github.com-1ecc6299db9ec823\idna-0.2.3\src\uts46_mapping_table.rs:
