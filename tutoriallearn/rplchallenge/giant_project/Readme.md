@@ -11,6 +11,5 @@
 # 利点
 
 CEDEC等でも発表されているように「FF」や「ドラクエ」や「リンク」のレベルデザインや敵登録を作ってみたい方は避けられない箇所とも認知します。
-
 # 参考資料
 https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html
